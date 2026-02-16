@@ -1,0 +1,12 @@
+datasets==4.5.0
+evaluate==0.4.6
+fastapi
+matplotlib==3.9.4
+numpy==2.0.2
+pandas
+pydantic==2.12.5
+scikit_learn
+seaborn==0.13.2
+transformers==4.57.6
+uvicorn[standard]
+notebook
